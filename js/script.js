@@ -27,7 +27,7 @@ var quotes = [
 
   {
 
-    quote: "Just don’t give up trying to do what you really want to do. Where there is love and inspiration, I don’t             think you can go wrong.",
+    quote: "Just don’t give up trying to do what you really want to do. Where there is love and inspiration, I don’t think you can go wrong.",
 
     source: "Ella Fitzgerald",
 
