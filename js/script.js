@@ -31,7 +31,7 @@ var quotes = [
 
     source: "Ella Fitzgerald",
 
-    citation: "https://www.goalcast.com/2018/04/25/12-ella-fitzgerald-quotes/",
+    citation: "https://www.goalcast.com/2018/04/25/12-ella-fitzgerald-quotes/"
 
   },
 
@@ -40,7 +40,7 @@ var quotes = [
 
     source: "Langston Hughes",
 
-    citation: "Poem",
+    citation: "Poem"
 
   },
 
@@ -52,7 +52,7 @@ var quotes = [
 
     citation: "Conversations With James Baldwin, Book by James A. Baldwin",
 
-    year: ("1989"),
+    year: "1989",
 
   },
 
@@ -65,7 +65,7 @@ var quotes = [
     citation: " Unknown ",
 
 
-  },
+  }
 
 ];
 
