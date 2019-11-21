@@ -52,7 +52,7 @@ var quotes = [
 
     citation: "Conversations With James Baldwin, Book by James A. Baldwin",
 
-    year: "1989",
+    year: "1989"
 
   },
 
@@ -62,7 +62,7 @@ var quotes = [
 
     source: "Thomas Edison",
 
-    citation: " Unknown ",
+    citation: " Unknown "
 
 
   }
